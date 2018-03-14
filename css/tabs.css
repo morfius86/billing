@@ -1,0 +1,41 @@
+ul.tabs {
+	height: 10px;
+	line-height: 20px;
+	list-style: none;
+}
+.tabs li {
+	float: left;
+	display: inline;
+	margin: -4 40px -1px -40;
+	padding: 0 5px 0px;
+	color: gray;
+
+	#position: relative;
+}
+.tabs li span {
+	border-bottom: 1px dashed #003849;
+	font-size: 14px;
+	#color: gray;
+	#color: #434343;
+	#font-size: 14px;
+
+}
+.tabs li:hover,
+.vertical .tabs li:hover {
+	#font-weight: bold;
+	color: black;
+}
+.tabs li.current {
+	#font-weight: bold;
+	color: black;
+}
+
+.box {
+	display: none;
+
+}
+.box.visible {
+	display: block;
+
+}
+

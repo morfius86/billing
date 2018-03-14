@@ -1,0 +1,38 @@
+authorize {
+	preprocess
+	smtbill_preauth 
+#	pap
+	chap
+	mschap
+#	eap
+#	files
+#	sql
+	smtbill_auth 
+}
+
+authenticate {
+    Auth-Type PAP {
+            pap
+    }
+    Auth-Type CHAP {
+            chap
+    }
+    Auth-Type MS-CHAP {
+        mschap
+    }
+    eap
+}
+
+#preacct {
+#    preprocess 
+#    smtbill_acc 
+#}
+
+post-auth { 
+# Post-Auth-Type REJECT { 
+#     smtbill_postauth 
+# }
+# Post-Auth-Type REJECT {
+#   sql
+# } 
+} 

@@ -1,0 +1,194 @@
+192.168.88.20	02	90 FB A6 E9 7D DA	14
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:35.14
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 90 FB A6 E9 7D DA 00 0E 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	90 FB A6 E9 7D DA	14
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:36.34
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 90 FB A6 E9 7D DA 00 0E 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	F0 7D 68 9C D5 B5	22
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:37.54
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 F0 7D 68 9C D5 B5 00 16 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	F0 7D 68 9C D5 B5	22
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:39.35
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 F0 7D 68 9C D5 B5 00 16 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	D8 EB 97 1A 86 48	1
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:49.51
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 D8 EB 97 1A 86 48 00 01 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	90 FB A6 E9 7D DA	14
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:51.32
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 90 FB A6 E9 7D DA 00 0E 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	90 FB A6 E9 7D DA	14
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:15:51.92
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 90 FB A6 E9 7D DA 00 0E 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	D8 EB 97 1A 86 48	1
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:00.30
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 D8 EB 97 1A 86 48 00 01 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	D8 EB 97 1A 86 48	1
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:03.30
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 D8 EB 97 1A 86 48 00 01 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	D8 EB 97 1A 86 48	1
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:12.89
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 D8 EB 97 1A 86 48 00 01 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	01	F0 7D 68 9C D5 B5	22
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:13.49
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 F0 7D 68 9C D5 B5 00 16 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:13.98
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.8 8
+IF-MIB::ifAdminStatus.8 up
+IF-MIB::ifOperStatus.8 down
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.10.63.6
+
+192.168.88.20	02	C4 6E 1F FD FE 1B	8
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:14.09
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 C4 6E 1F FD FE 1B 00 08 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:14.32
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkUp
+IF-MIB::ifIndex.8 8
+IF-MIB::ifAdminStatus.8 up
+IF-MIB::ifOperStatus.8 up
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.10.63.6
+
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:14.38
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.8 8
+IF-MIB::ifAdminStatus.8 up
+IF-MIB::ifOperStatus.8 down
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.10.63.6
+
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:14.42
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkUp
+IF-MIB::ifIndex.8 8
+IF-MIB::ifAdminStatus.8 up
+IF-MIB::ifOperStatus.8 up
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.10.63.6
+
+192.168.88.20	01	C4 6E 1F FD FE 1B	8
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:14.69
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "01 C4 6E 1F FD FE 1B 00 08 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	D8 EB 97 1A 86 48	1
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:15.30
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 D8 EB 97 1A 86 48 00 01 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+
+192.168.88.20	02	F0 7D 68 9C D5 B5	22
+192.168.88.20
+UDP: [192.168.88.20]:161->[91.233.47.147]
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:11:16:15.31
+SNMPv2-MIB::snmpTrapOID.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20.0.2
+SNMPv2-SMI::enterprises.171.11.63.6.2.20.2.1 "02 F0 7D 68 9C D5 B5 00 16 00 "
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 192.168.88.20
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "trap_com"
+SNMPv2-MIB::snmpTrapEnterprise.0 SNMPv2-SMI::enterprises.171.11.63.6.2.20
+

@@ -1,0 +1,71 @@
+@charset "windows-1251";
+/* CSS Document */
+
+html{
+	height:100%;
+}
+
+body{
+	margin-top: 150px;
+	padding:0px;
+	height:0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	background:#FFF;
+	color:black;
+}
+
+a{
+	color:#E56606;
+}
+
+.logo{
+	text-align: center;
+	width:280px;
+	margin:30px auto 20px auto;
+}
+
+.title{
+	margin:30px auto 50px auto;
+	width:280px;
+	font-size:11px;
+	color:#333;
+	text-align:center;
+}
+
+.loginform{
+	width:280px;
+	margin:0 auto 50px auto;
+}
+
+input.loginbtn{
+	height: 30px;
+	width: 100px;
+	background: #5688BE;
+	color: #FFF;
+	font-size: 15px;
+	cursor: pointer;
+	margin-top: 10px;
+	border: none;
+	text-align: center;
+	padding: 0px;
+}
+
+input.loginbtn:hover{
+	background:#39608A;
+}
+
+input.textbox{
+	width:200px;
+	line-height:30px;
+	height:30px;
+	border:none;
+	background:#111;
+	border-bottom:1px solid #333;
+	outline:none;
+	color:#E56606;
+}
+
+span.error{
+	color:#E56606;
+}
