@@ -38,7 +38,7 @@ body {
 #include("class/class.mikrotik.php");
 
 
-#include files
+#include file
 if(isset($_GET["opener"])){
 	if(file_exists("opener/".$_GET["opener"].".inc")){
 		if ($_SESSION["access"]=="ALL_ACCESS" or in_array($_GET["opener"], explode(";",$_SESSION["access"]))){
